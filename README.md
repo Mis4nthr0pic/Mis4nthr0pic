@@ -2,10 +2,11 @@
 
 Senior engineer, 15 years shipping production systems. Currently working at the intersection of AI and blockchain security.
 
-I build applied AI: agents, RAG systems, and security tooling that survive contact with real data and real users. Most of my career has been spent on the parts of engineering that don't make the demo — failure modes, observability, customer workflows, post-incident analysis — and I'm now applying that to LLM systems.
+I build applied AI: agents, RAG systems, and security tooling that survive contact with real data and real users. Most of my career has been spent on the parts of engineering that don't make the demo, failure modes, observability, customer workflows, post-incident analysis, and I'm now applying that to LLM systems.
 
-📍 Florianópolis, Brazil · open to US / Canada · full overlap with North American business hours
-📬 alexandre.carvalho.melo@gmail.com · [LinkedIn](https://linkedin.com/in/alexandrecmelo) · [YouTube](https://youtube.com/@opensense)
+📍 Brazil · open to US / Canada · full overlap with North American business hours
+
+📬 alexandre.carvalho.melo@gmail.com · [LinkedIn](https://www.linkedin.com/in/alexoncrypto/) · [YouTube](https://youtube.com/@opensensepw)
 
 ---
 
