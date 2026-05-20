@@ -1,6 +1,6 @@
 # Alexandre Melo
 
-Senior engineer, 15 years shipping production systems. Currently working at the intersection of AI and blockchain security.
+Engineer and builder with 15 years across production systems, Web3 security, and applied AI.
 
 I build applied AI: agents, RAG systems, and security tooling that survive contact with real data and real users. Most of my career has been spent on the parts of engineering that don't make the demo, failure modes, observability, customer workflows, post-incident analysis, and I'm now applying that to LLM systems.
 
