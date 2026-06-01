@@ -57,7 +57,7 @@ EVM internals · Solidity · DeFi protocol architecture · on-chain forensics ·
 ### Contact
 
 📬 alexandre.carvalho.melo@gmail.com  
-💼 [LinkedIn](https://linkedin.com/in/alexandremelo-fde) *(updating URL)*  
+💼 [LinkedIn](https://linkedin.com/in/alexcmelo) *(updating URL)*  
 🛠 [GitHub](https://github.com/Mis4nthr0pic)
 
 **Status:** Relocating to Toronto, ON · Open to remote (EST overlap) · Available for the right role
