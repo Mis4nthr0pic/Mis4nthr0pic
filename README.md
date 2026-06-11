@@ -1,63 +1,32 @@
 # Alexandre Melo
-**Forward Deployed Engineer** — Applied AI & LLM Systems · Production Engineering · Relocating to Toronto, ON
 
-I embed with teams, scope real problems, and ship working AI systems in weeks. 15 years in production environments, from 2.5M-user platforms to AI-assisted workflows for institutional clients.
+Forward deployed / solutions engineer focused on applied AI. 15 years shipping production systems — the last few spent where engineering meets customers.
 
-&gt; The model is the easy part. The work is scoping, evals before prompts, human-in-the-loop placement, and observability that survives 2am.
+**Now:** [Zokyo](https://zokyo.io) — I build LLM pipelines for security investigation and triage (work that took days now takes hours), and run client-facing engineering for institutional customers: scoping, delivery, incident response.
 
----
+**Also:** founder of [OpenSense](https://youtube.com/@opensensepw) — the largest open Web3 security community, 37K+ YouTube subscribers, funded twice by the Ethereum Foundation.
 
-### Now
-- Relocating to **Toronto, ON** — open to FDE, Applied AI Engineer, and Solutions Engineering roles
-- Building applied AI systems: RAG pipelines, agent frameworks, vision-to-structured-output workflows
-- Operating at full overlap with North American business hours
+## Things I've built
 
----
+- **[furniture-vision-search](https://github.com/Mis4nthr0pic/furniture-vision-search)** — photo in, matching products out. CLIP embeddings, hybrid retrieval with pgvector, LLM reranking with per-result reasoning. The eval set came first; tuning came second.
+- **[ethSight](https://github.com/Mis4nthr0pic/ethSight)** — read-only Ethereum forensics CLI: wallet analysis, approval audits, fund-flow tracing, and an LLM "explain this" mode. Where my security background and AI work overlap.
+- **[applyos](https://github.com/Mis4nthr0pic/applyos)** — local-first Chrome extension for job applications. Scans ATS forms, scores role fit, fills from a verified answer bank. Never invents experience, never auto-submits.
+- **[prediction-bot-research](https://github.com/Mis4nthr0pic/prediction-bot-research)** — 31K rounds of walk-forward backtesting that ended in a clear verdict: no edge. Honest negative results are still results, and the methodology is the point.
+- **[morpho-master](https://github.com/Mis4nthr0pic/morpho-master)** — spaced-repetition learning tool with LLM-generated, protocol-specific quizzes. Built because reading passively wasn't working.
 
-### Featured Work
+## How I work
 
-**[`furniture-vision-search`](https://github.com/Mis4nthr0pic/furniture-vision-search)** — *TypeScript*  
-Full-stack applied AI: image upload → vision feature extraction → hybrid catalog retrieval (pgvector) → LLM reranking with per-result reasoning. Built for match quality, not just retrieval. [Live Demo](your-vercel-url-here)
+The model is the easy part. Scoping the real problem, retrieval quality, evals, and deciding where the human stays in the loop — that's the actual job. I bring security habits to AI systems: assume adversarial input, measure before trusting, log enough to debug at 2am.
 
-**[`morpho-master`](https://github.com/Mis4nthr0pic/morpho-master)** — *JavaScript*  
-AI-powered technical learning platform. Structured knowledge ingestion, spaced-repetition scheduling, and protocol-specific evals. Built to master complex domains fast.
+## Background
 
-**[`bridge-guard`](https://github.com/Mis4nthr0pic/bridge-guard)** — *Solidity / TypeScript*  
-Production event monitoring and alerting system for institutional bridge contracts. Real-time ingestion, custom rule engine, and forensic trace generation.
+- **Security:** smart contract auditing (Foundry, Slither, Echidna, fuzzing, invariant testing), on-chain forensics, post-incident investigation. Designed and shipped Zokyo's CTF platform and bug bounty program.
+- **Engineering:** Node.js, Python, TypeScript, PostgreSQL, Redis, Kafka. Backend systems for platforms serving millions of users (Catho, Endouble).
+- **Leadership:** CTO at Avem (permissioned ledger for regulated environments), engineering lead at EDUXE, hired and ran teams.
+- Polkadot Blockchain Academy — University of Cambridge, 2022.
 
----
+## Contact
 
-### Stack
+[LinkedIn](https://linkedin.com/in/alexcmelo) · [YouTube](https://youtube.com/@opensensepw) · alexandre.carvalho.melo@gmail.com
 
-**AI / LLM**  
-Claude · GPT · OpenRouter · RAG patterns · pgvector / Chroma · MCP servers · agent frameworks · structured outputs · eval harnesses · prompt versioning
-
-**Languages**  
-Python · TypeScript · JavaScript · SQL · Go (reading) · Rust (reading)
-
-**Backend & Infra**  
-FastAPI · Node.js · PostgreSQL · Redis · Kafka · Docker · AWS (EC2, Lambda, S3, SNS) · GitHub Actions
-
-**Frontend**  
-React · Next.js · WebSockets
-
-**Domain Knowledge**  
-EVM internals · Solidity · DeFi protocol architecture · on-chain forensics · security audit workflows
-
----
-
-### Background
-
-- **Zokyo** — Scoped and delivered AI-assisted investigation workflows for 10+ institutional clients. Built internal LLM tooling for forensic triage and customer-facing security reporting. Designed CTF platform and bug bounty program from zero.
-- **OpenSense** — Founded technical community of 37K+ developers. Customer enablement at scale: translating complex architecture into actionable education and shipped tooling.
-- **Endouble / Catho / EDUXE / VATI** — Production backend systems at scale (2.5M+ users), observability stacks, incident response, and CI/CD.
-
----
-
-### Contact
-
-📬 alexandre.carvalho.melo@gmail.com  
-💼 [LinkedIn](https://linkedin.com/in/alexcmelo) *(updating URL)*  
-🛠 [GitHub](https://github.com/Mis4nthr0pic)
-
-**Status:** Relocating to Toronto, ON · Open to remote (EST overlap) · Available for the right role
+Florianópolis, Brazil (BRT) · remote-first · open to relocation, Toronto preferred
